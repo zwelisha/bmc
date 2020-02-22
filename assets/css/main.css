@@ -1,0 +1,97 @@
+/*
+Copyright@2019
+Author: Zweli Mthethwa
+*/
+/* primary color #4987b3 */
+body{
+    color: #343a40;
+    /*font-size: smaller;*/
+}
+#logo_image{
+    max-height: 50px;
+    width: auto;
+}
+
+#footer_links li {
+    list-style-type: none;
+}
+#footer_links li a{
+    color: #ffffff!important;
+}
+.navbar{
+  background-color: #343a40 !important;
+}
+.nav-link{
+    color: #ffffff !important;
+}
+
+.navbar-brand{
+    color: #ffffff !important;
+    text-transform: uppercase;
+}
+.navbar-toggler{
+    color: #000000!important;
+}
+#search_box{
+  width: 20px !important;
+}
+#footer{
+    font-size: small;
+    padding-left: 5px;
+    padding-right: 5px;
+    background-color: #4987b3;
+    color: #ffffff;
+}
+.text-default{
+  color: #4987b3 !important;
+}
+/* Home section style        */
+.home-slide-img{
+    max-height: 400px !important;
+    max-width: auto;
+    border-radius: 5px;
+}
+/* End of home section style */
+#blue_div{
+    background: #4987b3;
+    color: #ffffff;
+    font-size: smaller;
+}
+.underlined-text{
+    text-decoration: underline;
+}
+#contact_list li{
+    list-style-type: none;
+}
+#cart{
+    max-width: 50px;
+    max-height: 50px;
+}
+#cart_list li{
+    list-style-type: none;
+}
+.product-image{
+    max-height: 200px !important;
+    border-radius: 5px;
+}
+.default-button{
+    background-color: #4987b3;
+    color: #ffffff;
+}
+.category-heading{
+    background-color: #343a40;
+    color: white;
+    padding: 2px;
+    border-radius: 3px;
+}
+#brand_image{
+    max-height: 100px;
+    float: right;
+}
+/*get in touch style*/
+/* Google map style */
+#map {
+        width: 100%;
+        height: 400px;
+        background-color: grey;
+}
