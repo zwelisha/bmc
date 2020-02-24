@@ -95,3 +95,7 @@ body{
         height: 400px;
         background-color: grey;
 }
+/*item price */
+.item-price{
+    color: #FF0000;
+}
